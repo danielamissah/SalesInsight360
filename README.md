@@ -72,3 +72,42 @@ This project involves:
 
 ---
 
+---
+
+## 🚀 How to Run
+
+1. **Load Data**: Load raw sales data into a MySQL database.
+2. **SQL Scripts**: Run the SQL scripts to preprocess and extract features.
+3. **Power BI**: Load the data into Power BI for visualization and interactive dashboard.
+4. **ML Models**: Use the Python notebooks to train and evaluate ML models.
+
+---
+
+## 📈 Project Goals
+
+- **Sales Insights**: Identify top-performing products, regions, and trends
+- **Customer Behavior**: Analyze customer purchase patterns over time
+- **Demand Prediction**: Forecast future sales and product demand
+- **Classification**: Classify products into demand categories
+
+---
+
+## 💻 Sample Dashboard Screenshots
+
+Here are some sample screenshots of the Power BI dashboard visualizations:
+
+![KPI Cards](assets/screenshots/kpi_cards.png)
+*Figure 1: KPI Cards for Total Sales, Orders, and Average Order Value.*
+
+![Sales Trend Line Chart](assets/screenshots/sales_trend.png)
+*Figure 2: Line Chart showing sales trends over time (Month vs Sales).*
+
+![Product Performance](assets/screenshots/product_performance.png)
+*Figure 3: Bar Chart comparing product sales performance.*
+
+![City-Wise Sales Distribution](assets/screenshots/city_sales_map.png)
+*Figure 4: Geographic analysis of sales by city on a map.*
+
+---
+
+
