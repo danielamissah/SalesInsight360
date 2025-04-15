@@ -73,4 +73,5 @@ This project involves:
 ---
 
 ## 📁 File Structure
+SalesInsight360/ │ ├── sql_scripts/ # Full ETL SQL scripts ├── powerbi_dashboard/ # PBIX file or screenshots ├── notebooks/ # Jupyter notebooks for ML models ├── data/ # Cleaned datasets ├── README.md
 
