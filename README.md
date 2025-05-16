@@ -21,7 +21,7 @@ This project involves:
 - **Sales Trends**: 
   - **Line Chart**: Month vs Sales
   - **Line Chart**: Hour vs Sales
-  - **Bar Chart**: Day of Week vs Sales
+
 
 - **Product Insights**: 
   - **Bar Chart**: Product vs Total Sales
@@ -37,10 +37,9 @@ This project involves:
   - **Bar Chart**: City vs Total Sales
 
 - **Filters**: 
-  - Product
   - City
   - Month
-  - Hour
+  - Year
 
 ---
 
