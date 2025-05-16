@@ -99,13 +99,11 @@ Here are some sample screenshots of the Power BI dashboard visualizations:
 *Figure 1: KPI Cards for Total Sales, Orders, and Average Order Value.*
 
 ![Sales Trend Line Chart](assets/screenshots/sales_trend.png)
-*Figure 2: Line Chart showing sales trends over time (Month vs Sales).*
+*Figure 2: Sales trends over time (Month vs Sales).*
 
 ![Product Performance](assets/screenshots/product_performance.png)
-*Figure 3: Bar Chart comparing product sales performance.*
+*Figure 3: Product Performance.*
 
-![City-Wise Sales Distribution](assets/screenshots/city_sales_map.png)
-*Figure 4: Geographic analysis of sales by city on a map.*
 
 ---
 
