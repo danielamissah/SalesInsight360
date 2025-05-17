@@ -50,14 +50,6 @@ This project involves:
 
 ---
 
-## How to Run
-
-1. **Load Data**: Import raw sales data into a SQL database.
-2. **Preprocess**: Run SQL scripts for data cleaning and transformation.
-3. **Excel Structuring**: Use Excel for initial formatting or lookup table creation.
-4. **Visualization**: Load structured data into Power BI to build interactive dashboards.
-
----
 
 ## Project Goals
 
