@@ -1,110 +1,81 @@
 # Sales Insight360
 
-**Sales Insight360** is a full-stack business intelligence and machine learning project designed to transform raw sales data into actionable insights and predictive models. The project showcases practical skills in SQL, Power BI, Python, and ML pipelines, ideal for decision-making in a retail business environment.
+**Sales Insight360** is a business intelligence project focused on transforming raw retail sales data into actionable insights through interactive dashboards. It highlights expertise in SQL, Excel, and Power BI for data cleaning, structuring, and visual analytics that support strategic decision-making.
 
-## 🔍 Project Overview
+## Project Overview
 
 This project involves:
 - Cleaning and transforming sales data using SQL
-- Building an interactive Power BI dashboard
-- Developing ML models for sales forecasting, demand classification, and time series prediction
+- Structuring and validating data with Excel
+- Building an interactive Power BI dashboard for business insights
 
 ---
 
-## 📊 Power BI Dashboard Features
+## Power BI Dashboard Features
 
-- **KPI Cards**: 
-  - Total Sales
-  - Total Orders
+- **KPI Cards**:  
+  - Total Sales  
+  - Total Orders  
   - Average Order Value
-  
-- **Sales Trends**: 
-  - **Line Chart**: Month vs Sales
-  - **Line Chart**: Hour vs Sales
 
+- **Sales Trends**:  
+  - Line Chart: Month vs Sales  
+  - Line Chart: Hour vs Sales
 
-- **Product Insights**: 
-  - **Bar Chart**: Product vs Total Sales
-  - **Bar Chart**: Product vs Quantity Ordered
-  - **Clustered Bar Chart**: Product vs Sales by City
+- **Product Insights**:  
+  - Bar Chart: Product vs Total Sales  
+  - Bar Chart: Product vs Quantity Ordered  
+  - Clustered Bar Chart: Product vs Sales by City
 
-- **Customer Behavior**: 
-  - **Line Chart**: Orders by Hour
-  - **Heatmap**: Hour vs Day of Week vs Orders
+- **Customer Behavior**:  
+  - Line Chart: Orders by Hour  
+  - Heatmap: Hour vs Day of Week vs Orders
 
-- **Geo Analysis**: 
-  - **Map Chart**: City-Wise Sales Distribution
-  - **Bar Chart**: City vs Total Sales
+- **Geo Analysis**:  
+  - Map Chart: City-Wise Sales Distribution  
+  - Bar Chart: City vs Total Sales
 
-- **Filters**: 
-  - City
-  - Month
+- **Filters**:  
+  - City  
+  - Month  
   - Year
 
 ---
 
-## 🤖 Machine Learning Pipelines
+## Technologies Used
 
-### 1. **Sales Prediction**
-- **Models**: Linear Regression, Random Forest, XGBoost  
-- **Target**: `sales` or `quantity_ordered`  
-- **Evaluation Metrics**: RMSE, MAE, R² Score
-
-### 2. **Demand Classification**
-- **Models**: Logistic Regression, Decision Tree, XGBoost Classifier  
-- **Classes**: Low / Medium / High Demand  
-- **Evaluation Metrics**: Accuracy, Precision, Recall, F1-Score
-
-### 3. **Time Series Forecasting**
-- **Models**: Prophet, ARIMA, (Optional: LSTM)  
-- **Target**: Daily or Monthly Sales  
-- **Evaluation Metrics**: RMSE, MAPE
+- **SQL**: Data cleaning, transformation, and aggregation  
+- **Excel**: Data validation and summary preparation  
+- **Power BI**: Dashboard development and visualization
 
 ---
 
-## 🛠 Technologies Used
+## How to Run
 
-- **SQL**: Data cleaning, aggregation, and feature generation  
-- **Power BI**: Visual analytics and dashboarding  
-- **Python**: Machine learning models (Scikit-learn, XGBoost, Prophet)  
-- **Pandas/Numpy/Matplotlib**: Data processing and EDA  
-
----
+1. **Load Data**: Import raw sales data into a SQL database.
+2. **Preprocess**: Run SQL scripts for data cleaning and transformation.
+3. **Excel Structuring**: Use Excel for initial formatting or lookup table creation.
+4. **Visualization**: Load structured data into Power BI to build interactive dashboards.
 
 ---
 
-## 🚀 How to Run
+## Project Goals
 
-1. **Load Data**: Load raw sales data into a MySQL database.
-2. **SQL Scripts**: Run the SQL scripts to preprocess and extract features.
-3. **Power BI**: Load the data into Power BI for visualization and interactive dashboard.
-4. **ML Models**: Use the Python notebooks to train and evaluate ML models.
-
----
-
-## 📈 Project Goals
-
-- **Sales Insights**: Identify top-performing products, regions, and trends
-- **Customer Behavior**: Analyze customer purchase patterns over time
-- **Demand Prediction**: Forecast future sales and product demand
-- **Classification**: Classify products into demand categories
+- **Retail Insights**: Visualize key sales metrics by product, region, and time  
+- **Trend Analysis**: Monitor monthly and hourly sales patterns  
+- **User-Driven Exploration**: Enable stakeholders to filter and explore data dynamically
 
 ---
 
-## 💻 Sample Dashboard Screenshots
+## Sample Dashboard Screenshots
 
-Here are some sample screenshots of the Power BI dashboard visualizations:
-
-![KPI Cards](assets/screenshots/kpi_cards.png)
+![KPI Cards](assets/screenshots/kpi_cards.png)  
 *Figure 1: KPI Cards for Total Sales, Orders, and Average Order Value.*
 
-![Sales Trend Line Chart](assets/screenshots/sales_trend.png)
+![Sales Trend Line Chart](assets/screenshots/sales_trend.png)  
 *Figure 2: Sales trends over time (Month vs Sales).*
 
-![Product Performance](assets/screenshots/product_performance.png)
+![Product Performance](assets/screenshots/product_performance.png)  
 *Figure 3: Product Performance.*
 
-
 ---
-
-
